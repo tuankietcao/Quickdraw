@@ -21,7 +21,7 @@ Follow the documentation [here](https://github.com/googlecreativelab/quickdraw-d
 10) Washing machine 
 11) Windmill 
 
-## Deployed app
+## Deployed app 🔱
 [Deployed app](https://quickdraw.streamlit.app/)
 ![play page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_02.png)
 ![visualize page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_38.png)
