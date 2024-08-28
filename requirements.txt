@@ -1,6 +1,6 @@
 pytorch
 streamlit
-streamlit_streamlit_drawable_canvas
+streamlit_drawable_canvas
 numpy
 opencv-python
 matplotlib
