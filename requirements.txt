@@ -2,5 +2,5 @@ torch
 streamlit
 streamlit_drawable_canvas
 numpy
-opencv-python
+opencv
 matplotlib
