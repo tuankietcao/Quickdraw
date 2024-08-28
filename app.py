@@ -9,10 +9,10 @@ import os
 import matplotlib.pyplot as plt
 
 # Load the model
+class_mapping = {'apple': 0, 'basketball': 1, 'bed': 2, 'cat': 3, 'helicopter': 4, 'leg': 5, 'panda': 6, 'piano': 7, 'umbrella': 8, 'washingmachine': 9, 'windmill': 10}
 model_path = "model5.pth"
 model, _ = tr.load_model(model_path)
 data_dir = 'Data'
-class_mapping = tr.create_class_mapping(data_dir)
 classes = {value: key for key, value in class_mapping.items()}
 
 def newListRemove(element, list): 
@@ -42,9 +42,6 @@ def play_page():
             outputs = model(image)
             probabilities = torch.nn.functional.softmax(outputs, dim=1)[0]
             predictions = {classes[i]: prob.item() for i, prob in enumerate(probabilities) if prob.item() > threshold}
-        
-        # Sort predictions and show the top one
-
 
         return probabilities, predictions
     # Initialize session state variables if not already done
