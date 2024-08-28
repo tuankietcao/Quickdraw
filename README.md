@@ -2,11 +2,6 @@
 
 Can a neural network learn to recognize doodling? [Quick, Draw](https://quickdraw.withgoogle.com/)
 
-## Deployed app
-[Deployed app](https://quickdraw.streamlit.app/)
-![play page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_02.png)
-![visualize page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_38.png)
-
 ## Description 👨‍🎨
 Quick, Draw! is an online game developed by Google that challenges players to draw a picture of an object or idea and then uses a neural network artificial intelligence to guess what the drawings represent. The AI learns from each drawing, increasing its ability to guess correctly in the future.The game is similar to Pictionary in that the player only has a limited time to draw (20 seconds).The concepts that it guesses can be simple, like 'foot', or more complicated, like 'animal migration'. This game is one of many simple games created by Google that are AI based as part of a project known as 'A.I. Experiments'. [Quick, Draw](https://quickdraw.withgoogle.com/)
 
@@ -26,10 +21,10 @@ Follow the documentation [here](https://github.com/googlecreativelab/quickdraw-d
 10) Washing machine 
 11) Windmill 
 
-###### Made with ❤️ by tuankietcao
+## Deployed app
+[Deployed app](https://quickdraw.streamlit.app/)
+![play page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_02.png)
+![visualize page](screencapture-quickdraw-streamlit-app-2024-08-28-18_44_38.png)
 
-## References: 🔱
- 
- - [Google's Quick, Draw](https://quickdraw.withgoogle.com/) 
- - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
- - [Quick Draw: the world’s largest doodle dataset](https://towardsdatascience.com/quick-draw-the-worlds-largest-doodle-dataset-823c22ffce6b)
+
+###### Made with ❤️ by tuankietcao
