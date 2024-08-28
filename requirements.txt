@@ -4,4 +4,3 @@ streamlit_drawable_canvas
 numpy
 opencv-python
 matplotlib
-PIL
