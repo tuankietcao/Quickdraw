@@ -15,7 +15,7 @@ Follow the documentation [here](https://github.com/googlecreativelab/quickdraw-d
 
 #### Labels
 1) Apple 
-2) Basketball 🎀
+2) Basketball 
 3) Bed 
 4) Cat 
 5) Helicopter 
@@ -26,7 +26,7 @@ Follow the documentation [here](https://github.com/googlecreativelab/quickdraw-d
 10) Washing machine 
 11) Windmill 
 
-###### Made with ❤️ and 🦙 by tuankietcao
+###### Made with ❤️ by tuankietcao
 
 ## References: 🔱
  
